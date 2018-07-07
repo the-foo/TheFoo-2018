@@ -4,7 +4,7 @@ Theme URI: https://github.com/the-foo/TheFoo-2018
 Author: The Foo! by kami
 Author URI: https://the-foo.tokyo
 Description: The Foo! 2018 Theme.
-Version: 0.1
+Version: 0.3
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: blog, two-columns, left-sidebar, accessibility-ready, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
@@ -2802,7 +2802,7 @@ p > video {
 	}
 
 	.site-main {
-		padding: 7.6923% 0;
+		padding: 0;
 	}
 
 	.hentry.sticky:not(.has-post-thumbnail) {
@@ -4152,14 +4152,14 @@ p > video {
 	}
 
 	.site-main {
-		padding: 8.3333% 0;
+		padding: 0;
 	}
 
 	.site-content {
 		display: block;
 		float: left;
-		margin-left: 29.4118%;
-		width: 70.5882%;
+		margin-left: 23%;
+		width: 83%;
 	}
 
 	body {
